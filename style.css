@@ -56,20 +56,22 @@ h2{
 }
 
 .menu{
-    height:250px;
+    height: 255px;
     width:350px;
-    object-fit: scale-down;
+    /* object-fit: scale-down; */
     
 }
 
 .list{
     height:250px;
     width: 350px;
-    object-fit: scale-down;
+    /* object-fit: scale-down; */
+  
 }
 .one-pager{
     height:250px;
     width: 350px;
-    object-fit: scale-down
+    /* object-fit: scale-down */
+    
 }
 
